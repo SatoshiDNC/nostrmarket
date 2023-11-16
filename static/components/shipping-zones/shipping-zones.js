@@ -49,6 +49,7 @@ async function shippingZones(path) {
           'Netherlands',
           'New Zealand',
           'Norway',
+          'Paraguay',
           'Poland',
           'Portugal',
           'Romania',
