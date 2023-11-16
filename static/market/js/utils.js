@@ -1,11 +1,7 @@
 var NostrTools = window.NostrTools
 
 var defaultRelays = [
-    'wss://relay.damus.io',
-    'wss://relay.snort.social',
-    'wss://nostr-pub.wellorder.net',
-    'wss://nostr.zebedee.cloud',
-    'wss://nostr.walletofsatoshi.com'
+    'wss://relay.satoshidnc.com'
 ]
 var eventToObj = event => {
     try {
