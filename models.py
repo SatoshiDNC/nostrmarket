@@ -236,7 +236,7 @@ class PartialProduct(BaseModel):
     images: List[str] = []
     price: float
     quantity: int
-    active: bool = False
+    active: bool = True
     pending: bool = False
     config: ProductConfig = ProductConfig()
 
